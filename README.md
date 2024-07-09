@@ -1,0 +1,2 @@
+# install-LAMP-Debian-12
+INSTALL LAMP DI DEBIAN 12
